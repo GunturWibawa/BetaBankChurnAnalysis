@@ -8,7 +8,7 @@ Throughout this sprint, I engaged in the refinement of machine learning models, 
 
 # **Project Insight**
 
-Bank Beta is grappling with the gradual attrition of customers on a monthly basis. Such as, the employees have expressed a desire to prioritize the retention of their steadfast client. As a Data Scientist, it became my responsibility to architect a predictive model to ensure the likelihood of a customer severing ties with the bank in the imminent future. This determination would be based on an analysis of historical behavioral patterns and previous contract termination records. The designed model was mandated to achieve an F1 score exceeding 0.59 and to be evaluated using the AUC-ROC metric.
+Beta Bank is grappling with the gradual attrition of customers on a monthly basis. Such as, the employees have expressed a desire to prioritize the retention of their steadfast client. As a Data Scientist, it became my responsibility to architect a predictive model to ensure the likelihood of a customer severing ties with the bank in the imminent future. This determination would be based on an analysis of historical behavioral patterns and previous contract termination records. The designed model was mandated to achieve an F1 score exceeding 0.59 and to be evaluated using the AUC-ROC metric.
 
 Upon a deep analysis and construction of the model, I am able to provide the following summary of the project:
 
