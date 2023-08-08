@@ -4,7 +4,7 @@ Churn Analysis in Beta Bank
 
 The project assigned to me during the eighth sprint involves Supervised Learning.
 
-Throughout this sprint, I engaged in the refinement of machine learning models, the development of evaluative metrics, and the manipulation of imbalanced data sets.
+Throughout this sprint, I engaged in the refinement of machine learning models, the development of evaluation metrics, and imbalanced data sets manipulation.
 
 # **Project Insight**
 
